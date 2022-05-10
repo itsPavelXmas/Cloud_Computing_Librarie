@@ -1,0 +1,27 @@
+{
+  "name": "cloud_computing_librarie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsPavelXmas/Cloud_Computing_Librarie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsPavelXmas/Cloud_Computing_Librarie/issues"
+  },
+  "homepage": "https://github.com/itsPavelXmas/Cloud_Computing_Librarie#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
