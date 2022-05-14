@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/itsPavelXmas/Cloud_Computing_Librarie#readme",
   "dependencies": {
+    "@google-cloud/text-to-speech": "^3.4.0",
+    "@google-cloud/translate": "^6.3.1",
+    "@sendgrid/mail": "^7.6.2",
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
