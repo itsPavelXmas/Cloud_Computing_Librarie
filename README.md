@@ -8,6 +8,7 @@ Aceasta aplicatie reprezinta o platforma de librarie unde cartile ce sunt eviden
 Serviciile folosite in Cloud prezente in acest proiect sunt Google Translate API si Text-to-Speech API folosind Google Cloud Platform. Totodata, Layerul de persistenta este evidentiat de o baza de date MySql stocata in Google Cloud Platform, deoarece am ales sa nu folosesc o baza de date locala. Pentru partea de mail uri am folosit SendGrid pentru ca utilizatorii sa impartaseasca cu prietenii acestora entuziasmul pentru o anumita carte.
 
 API Text-to-Speech API de la Google este ideal pentru orice aplicație care redă sunetul vorbirii umane către utilizatori. Acesta permite să convertim șiruri, cuvinte și propoziții arbitrare în sunetul unei persoane care vorbește aceleași lucruri. Aplicația poate efectua o acțiune și apoi poate oferi utilizatorului vorbire umană ca feedback. Din acest motiv am ales ca pentru descrierea unei carti sa poata fi citita de un “asistent”.
+Google Translate API de la Google pentru a putea traduce mail ul intr-o limba anume ce va fi trimis unui utilizator fiind folosit impreuna cu SMPT-ul de la SendGrid
 
 Flux de date
 
