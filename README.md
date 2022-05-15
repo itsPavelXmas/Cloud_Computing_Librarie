@@ -1,7 +1,9 @@
 # Cloud_Computing_Library_BE
 Proiect Cloud Computing – Library With Friends- Documentatie
 
-Titlu al aplicatiei: Library with Friends Nume si prenume student: Craciun Pavel-Cristian Grupa:1117 Link Catre aplicatie Heroku: https://immense-temple-57554.herokuapp.com/ Back-end repository: https://github.com/itsPavelXmas/Cloud_Computing_Librarie Front-end repository: https://github.com/itsPavelXmas/Cloud_Computing_Library_FE Introducere
+Titlu al aplicatiei: Library with Friends Nume si prenume student: Craciun Pavel-Cristian Grupa:1117 Link Catre aplicatie Heroku: https://immense-temple-57554.herokuapp.com/ Back-end repository: https://github.com/itsPavelXmas/Cloud_Computing_Librarie Front-end repository: https://github.com/itsPavelXmas/Cloud_Computing_Library_FE 
+link video: https://www.youtube.com/watch?v=ybRrvy8Sh04&ab_channel=Pavone
+Introducere
 
 Aceasta aplicatie reprezinta o platforma de librarie unde cartile ce sunt evidentiate pot fi trimise pe mail prietenilor pentru a starni curiozitatea despre acestea. Aplicatia a fost create utilizand Node.Js, Express, React.js, MySql, Google Translate API, SendGrid si Text-to-Speech Google API. Aspectul este unul minimalist folosind HTML si CSS. Totodata, aceasta a fost hostata pe Heroku. Servicii
 
