@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "perceptive-lamp-349618",
+  "private_key_id": "e268156ebe586e96b3f4157cc1ef48d0e2ecc544",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDltejE34lOnQb5\nAwd81LSMaUeozxbjI1iWBRKwFyeqU2kx9VPUcG8716cEGevYdpimdUDPwb8fdE6D\ni44J+lRbDRggWfBdsizJN8j89uGCUiTowQXwRfyluTCc81q5txA4QyvdxYKlPZU4\nahy4hj2YyRj6/BDpP+vfSlJF94PfvXvvhx88K0mwjmZ2s+GaNEv82ktB6QC/7esy\nFTD9q4A2psq0Ld7MCa8b9DxVG1jxILpraoZaBoVrT6DY8NSQemH9WWEDVBEPT237\nCmReayndz18VH+qbOAJ9OWbpIO0hbJxXQciVIOTg6gK3oMdp3uMT9lY9j7o5eXX2\nl7b1smw7AgMBAAECggEAEQYnRxft/CaFEsVXs7er3dAboHYgkxrWgN/FX8mHhgcC\nf9JXsSHYDI5R8WreYL+BVqzP7dXFDVa4TuVz1Gd6Avl4dUVVHAyNZyg8PAsr8VWX\nKKzNfN4i+EE+ShN7ANKBYDoSMTBnG0nyGik7Ea3ZOM6GjGtL8Y1sNLM0X70VR+qG\nJMFj1F0PfcGIgcT35OySOwqdULn7Ac1y1patEo0dcRyDsYYckiIBtk7B906pV2+e\nIoDApkSSpw2nWrPSuOr0V2ifiNzx642XmpiN7GSeUvfNnzLLPDv/fdh4RO+oZl1B\ndc+ifZ4XvnjJ/vaXua1uMJyk1TmbNeEUYKC/Q++seQKBgQD5LeQeysTC/769coaA\nJNPi1mj+wzggqm2vNct8JfTQIIjW7nQaz7xv7FciZPx2dEg/CbSu9T5015+xWuUl\n0j59mWqcuOer4ietiOjzGo4CgXnQVz8btx+aap6remFqs2NqsBySc/L9o46eqXAR\nYHJ9JsWoE1xVd46JKjNa2bFfpQKBgQDr/5exBp77w3fjc/HWynl9x3jRMbj0H868\nEAauMIQJTuKdLAqCJB49bhmU9CVi4Lp2GsWlRJDHYs+yVT2geRlNaslY8+e99lAD\nDt/LWEkqi4Aqs/J+uLRvWsNPkmHUpvpkdZhp+v0GQS0xyRzN2KktQ4igJs3oqJpS\nYYwo13zWXwKBgF8GukVn7Ku03mffIh4CbW/HdtkZV/FVLWkxKb3Zt8gbcDQPUeXb\nrTA9wGkUfBcsd1Ta/bXvPvdON89qK5NF36EEfdzwwyEQqTML0FLNoLSh7fOfIikO\nqBW6bXJVxIrtiI9qRCsx3swNsNkfIubtkhvaSmyznXXWl1wF5PnTpUolAoGAVVnM\n7LMuUHNzKonGTx5PLhQ0N8Q51eCjDhTltZ3KQuuKvbkt279gSGtHST27P7Vy+j/Y\nd1sC2Xl9EEwPy7fAVOVoCIm9qFAqw9BfU9WMMJzfL5KBAx+d8h/rPx37z8LMEAUP\nqFSjqd1skPLhPfk7xikEgpdGJPzFQ0IQRL0aYxUCgYANnNdy/t7CGQzONE69KMCG\nOtKozO7ON3Rsb0tHsVyVyD3OQ4ZzDuZ8kJc6nHdP9iPFZHQkyMOy41cyBKeMoFGW\ntT2imSZF2q1YJKB1Tc7zWJaUN21Ua+GbSLX3haa3y1QQDKXI/Fbl2BcnGbaKO3Y2\nqSTCQ2OAzU3e0P5kXcNd9g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cc-translate-usage@perceptive-lamp-349618.iam.gserviceaccount.com",
+  "client_id": "104137407320551457629",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cc-translate-usage%40perceptive-lamp-349618.iam.gserviceaccount.com"
+}
